@@ -41,6 +41,8 @@ My work sits at the intersection of **AI safety**, **consumer app development**,
 
 🪞 **[Confess™ (Honesty Harness)](https://github.com/tpertner/confess)** – Detecting relational boundary erosion in AI. A framework for testing whether models stay honest, calibrated, and appropriate in extended interactions.
 
+🤖 **[Credible Posts on AI (No Hallucinations)](https://chatgpt.com/g/g-69a898ddf3c48191a4e430db337c6d47-credible-posts-on-ai-no-hallucinations)** – Custom GPT that writes accurate, citation-first AI posts with built-in claim checking. No hype, no hallucinations.
+
 🛍️ **Rose + Shine, LLC** – Founder & IT Lead since 2021. End-to-end e-commerce brand — cloud infrastructure, AI-powered workflows, product photography, storefront, and fulfillment.
 
 📚 **[What TikTok Taught Me About Love, Life, and Heartbreak](https://www.amazon.com/What-TikTok-Taught-About-Heartbreak/dp/B0DV5CTHHF)** – Published author. A collection of viral wisdom and personal healing, available on Amazon via Pertner Publishing Group.
