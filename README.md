@@ -35,6 +35,10 @@ My work sits at the intersection of **AI safety**, **consumer app development**,
 <a href="https://apps.apple.com/app/id6760736529">
 <img src="app-promo.png" width="250" alt="I'm Not Yelling, You're Yelling™ - Speak softer. Connect deeper."/>
 </a>
+<br>
+<a href="https://apps.apple.com/app/id6760736529">
+<img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="40"/>
+</a>
 </div>
 
 🔬 **[Squeeze Framework™](https://github.com/tpertner/squeeze)** – AI agent boundary validation. Tests whether models maintain constraints under pressure across five surfaces: Tool Permission, Authority & Influence, Context, Constraint, and Iterative Pressure. Produces a Constraint Integrity Index (0–100) with risk banding. *Not jailbreaking — boundary validation.*
