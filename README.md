@@ -7,8 +7,6 @@
 🏙 Detroit, MI | 🔬 AI Evaluation & App Development | 🛡️ Cybersecurity
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)](#)
-[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
 [![Claude](https://img.shields.io/badge/Claude-191919?logo=anthropic&logoColor=fff)](#)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-191919?logo=anthropic&logoColor=fff)](#)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-E85D2A?logoColor=fff)](#)
@@ -75,12 +73,6 @@ This is the difference between a jailbreak and a **boundary validation** — and
 
 - 🎗️ **Sky Foundation Inc.** — Social Media Manager & Data Privacy Advisor (2016–2020)  
   Drove digital engagement for pancreatic cancer research, increasing annual contributions by 20%. Campaigns reached 148,835+ users at $0.26 per interaction. Presented analytics to the Scientific Advisory Council and Board of Directors.
-
-- 📖 **Baldwin Public Library** — Head of Adult Services
-
-- 📖 **Ann Arbor District Library** — Head of Branch Services
-
-- 📖 **West Bloomfield Township Public Library** — Librarian III
 
 ---
 
