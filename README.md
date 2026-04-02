@@ -12,6 +12,7 @@
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-E85D2A?logoColor=fff)](#)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff)](#)
+<br>
 [![RAG](https://img.shields.io/badge/RAG-FF6F61?logoColor=fff)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff)](#)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
@@ -78,11 +79,15 @@ This is the difference between a jailbreak and a **boundary validation** — and
 
 ### Certifications
 
+<div align="center">
+
 [![Python for Security](https://img.shields.io/badge/Python_for_Security-3776AB?logo=python&logoColor=fff)](#)
 [![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?logo=linux&logoColor=000)](#)
 [![Network Security](https://img.shields.io/badge/Network_Security-0078D4?logo=cisco&logoColor=fff)](#)
 [![Use AI Responsibly](https://img.shields.io/badge/Use_AI_Responsibly-FF6F61?logoColor=fff)](#)
 [![Advanced Generative AI](https://img.shields.io/badge/Advanced_Generative_AI-412991?logo=openai&logoColor=fff)](#)
+
+</div>
 
 ---
 
