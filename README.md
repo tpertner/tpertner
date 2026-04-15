@@ -24,7 +24,7 @@
 
 ---
 
-I build sharp tools that force naughty models to confess. Independent app developer, AI evaluation researcher, and founder of **Pertner Logic** — *Ask Better Questions, Build Better Systems.*
+I build sharp tools that force naughty models to confess. Independent app developer, AI evaluation researcher, and founder of **[Pertner Logic](https://tpertner.github.io/)** — *Ask Better Questions, Build Better Systems.*
 
 My work sits at the intersection of **AI safety**, **consumer app development**, and **human behavior**. I build frameworks that test what AI systems actually do under pressure, and I ship products that solve real problems for real people.
 
@@ -52,63 +52,6 @@ My work sits at the intersection of **AI safety**, **consumer app development**,
 
 🤖 **[Credible Posts on AI (No Hallucinations)](https://chatgpt.com/g/g-69a898ddf3c48191a4e430db337c6d47-credible-posts-on-ai-no-hallucinations)** – Custom GPT that writes accurate, citation-first AI posts with built-in claim checking. No hype, no hallucinations.
 
-🛍️ **Rose + Shine, LLC** – Founder & IT Lead since 2021. End-to-end e-commerce brand — cloud infrastructure, AI-powered workflows, product photography, storefront, and fulfillment.
+💼 **[Pertner Logic](https://tpertner.github.io/)** – Founder. Independent AI consulting practice at the intersection of safety, evaluation, and adoption. Home of the Squeeze Framework™, Confess™, and the *What Does AI Know About Me?* toolkit. *Ask Better Questions, Build Better Systems.*
 
-📚 **[What TikTok Taught Me About Love, Life, and Heartbreak](https://www.amazon.com/What-TikTok-Taught-About-Heartbreak/dp/B0DV5CTHHF)** – Published author. A collection of viral wisdom and personal healing, available on Amazon via Pertner Publishing Group.
-
----
-
-### What Makes My Work Different
-
-Most AI evaluation focuses on what models *know*. My frameworks focus on how models *behave* — specifically, whether they maintain their stated constraints when a sophisticated user applies structured pressure across multiple interaction surfaces.
-
-The **Squeeze Framework™** answers a harder question than "can you trick a model": *Does this agent do what it's supposed to do when the situation gets complicated?*
-
-This is the difference between a jailbreak and a **boundary validation** — and it matters for every company deploying AI agents with real-world tool access.
-
----
-
-### Education
-
-- 🎓 **University of Michigan, College of Engineering** — Applied Generative AI Specialization (2025)
-- 🛡️ **University of Michigan, College of Engineering** — Nexus Cybersecurity Professional Certificate (2020–2021)
-- 🏛️ **Harvard University** — Executive Education, Driving Performance (2002)
-- 📚 **Master of Library & Information Science (MLIS)** (1996–1998)
-- 📝 **Western Michigan University** — B.A., English/Communications (1993–1996)
-
----
-
-### Experience Highlights
-
-- 🛍️ **Rose + Shine, LLC** — Founder & IT Lead (2021–Present)  
-  Built and manage all tech systems, cloud infrastructure, and AI-powered workflows for a growing e-commerce brand.
-
-- 🎗️ **Sky Foundation Inc.** — Social Media Manager & Data Privacy Advisor (2016–2020)  
-  Drove digital engagement for pancreatic cancer research, increasing annual contributions by 20%. Campaigns reached 148,835+ users at $0.26 per interaction. Presented analytics to the Scientific Advisory Council and Board of Directors.
-
----
-
-### Certifications
-
-<div align="center">
-
-[![Python for Security](https://img.shields.io/badge/Python_for_Security-3776AB?logo=python&logoColor=fff)](#)
-[![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?logo=linux&logoColor=000)](#)
-[![Network Security](https://img.shields.io/badge/Network_Security-0078D4?logo=cisco&logoColor=fff)](#)
-[![Use AI Responsibly](https://img.shields.io/badge/Use_AI_Responsibly-FF6F61?logoColor=fff)](#)
-[![Advanced Generative AI](https://img.shields.io/badge/Advanced_Generative_AI-412991?logo=openai&logoColor=fff)](#)
-
-</div>
-
----
-
-<div align="center">
-
-*"I thrive at the intersection of technology and human needs."*
-
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6760736529)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmohaidheen@outlook.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=tpertner&color=00BED6&style=flat-square&label=Profile+Views)
-
-</div>
+📚 **[What TikTok Taught Me About Love, Life, and Heartbreak](https://www.amazon.com/What-TikTok-Taught-About-Heartbreak/dp/B0DV5CTHHF)** – Published author. A collection of viral w
